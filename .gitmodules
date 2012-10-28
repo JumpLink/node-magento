@@ -1,0 +1,6 @@
+[submodule "node_modules/heritage"]
+	path = node_modules/heritage
+	url = git://github.com/JumpLink/node-heritage.git
+[submodule "node_modules/json-fs"]
+	path = node_modules/json-fs
+	url = git://github.com/JumpLink/node-json-fs.git
