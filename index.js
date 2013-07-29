@@ -1,1 +1,1 @@
-module.exports = require('./lib/xmlrpc');
+module.exports = require('./lib/magento');

@@ -12,6 +12,6 @@ pids
 logs
 results
 config
-xmlrpc
+node_modules
 
 npm-debug.log

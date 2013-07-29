@@ -1,13 +1,11 @@
 {
   "name": "magento",
   "description": "Magento xml-rpc-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Pascal Garber <pascal.garber@gmail.com>",
   "dependencies": {
-    "xmlrpc": "*"
-  },
-  "devDependencies": {
-  	"json-fs": "git://github.com/JumpLink/node-json-fs.git"
+    "xmlrpc": "*",
+    "soap": "*"
   },
   "main": "index",
   "repository": "git://github.com/JumpLink/node-magento.git"
